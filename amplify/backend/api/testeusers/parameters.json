@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "testeusers",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

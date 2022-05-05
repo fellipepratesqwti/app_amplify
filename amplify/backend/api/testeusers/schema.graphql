@@ -1,0 +1,9 @@
+type Usuario @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  email: String
+  token: String
+  nome: String
+  foto: String
+  tipoConta: Int
+  idUsuario: String
+}
